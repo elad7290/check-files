@@ -1,4 +1,4 @@
-// elad baal-tzdaka 312531973
+
 #include <stdio.h>
 #include <sys/stat.h>
 #include <fcntl.h>
